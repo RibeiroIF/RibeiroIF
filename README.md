@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ribeiroif&label=Profile%20views&color=0e75b6&style=flat" alt="ribeiroif" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ribeiroif" alt="ribeiroif" /></a> </p>
-
 - 🔭 Atualmente utilizo as linguagens: **Java, JavaScript e Python**
 
 - 🔭 Trabalho com Banco de Dados utilizando as aplicações: **mySQL e PostgreSQL**
