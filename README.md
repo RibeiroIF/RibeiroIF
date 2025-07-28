@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ribeiroif&label=Profile%20views&color=0e75b6&style=flat" alt="ribeiroif" /> </p>
 
-- 🔭 Atualmente utilizo as linguagens: **Java, JavaScript e Python**
+- 🔭 Atualmente estudo as linguagens: **Java, JavaScript e Python**
 
 - 🔭 Trabalho com Banco de Dados utilizando as aplicações: **mySQL e PostgreSQL**
 
