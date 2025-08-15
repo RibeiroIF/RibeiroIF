@@ -2,6 +2,7 @@
 <h3 align="center">Faço curso técnico em Desenvolvimento de Sistemas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ribeiroif&label=Profile%20views&color=0e75b6&style=flat" alt="ribeiroif" /> </p>
+- 🔭 Tenho 24 anos, sou estudante de Desenvolvimento de Sistemas pelo IFSC e atualmente estou no segundo semestre. Minha primeira formação é bacharel em Educação Física pela UDESC, porém migrei para Desenvolvimento de Sistemas neste último ano, e me identifiquei com a área logo no início. Meu objetivo com a área no futuro é me voltar para a Cibersegurança e Controle/Manutenção de Dados.
 
 - 🔭 Atualmente estudo as linguagens: **Java, JavaScript e Python**
 
