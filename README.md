@@ -5,7 +5,7 @@
 
 - 🔭 Tenho 24 anos, sou estudante de Desenvolvimento de Sistemas pelo IFSC e atualmente estou no segundo semestre. Minha primeira formação é bacharel em Educação Física pela UDESC, porém migrei para Desenvolvimento de Sistemas neste último ano, e me identifiquei com a área logo no início. Meu objetivo com a área no futuro é me voltar para a Cibersegurança e Controle/Manutenção de Dados.
 
-- 🔭 Atualmente utilizo as linguagens: **Java, JavaScript e Python**
+- 🔭 Atualmente utilizo as linguagens: **Java, JavaScript, Python e PHP**
 
 - 🔭 Trabalho com Banco de Dados utilizando as aplicações: **mySQL e PostgreSQL**
 
