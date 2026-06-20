@@ -1,4 +1,4 @@
-<h1 align="center">Olá, 👋, Sou o Gabriel Ribeiro de Souza</h1>
+<h1 align="center">Olá 👋, Sou o Gabriel Ribeiro de Souza</h1>
 <h3 align="center">Sou técnico em Desenvolvimento de Sistemas pelo IFSC</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ribeiroif&label=Profile%20views&color=0e75b6&style=flat" alt="ribeiroif" /> </p>
