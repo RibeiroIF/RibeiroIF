@@ -1,9 +1,28 @@
 <h1 align="center">Olá, 👋, Sou o Gabriel Ribeiro de Souza</h1>
-<h3 align="center">Faço curso técnico em Desenvolvimento de Sistemas</h3>
+<h3 align="center">Sou técnico em Desenvolvimento de Sistemas pelo IFSC</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ribeiroif&label=Profile%20views&color=0e75b6&style=flat" alt="ribeiroif" /> </p>
 
-- 🔭 Tenho 24 anos, sou estudante de Desenvolvimento de Sistemas pelo IFSC e atualmente estou no segundo semestre. Minha primeira formação é bacharel em Educação Física pela UDESC, porém migrei para Desenvolvimento de Sistemas neste último ano, e me identifiquei com a área logo no início. Meu objetivo com a área no futuro é me voltar para a Cibersegurança e Controle/Manutenção de Dados.
+- 🔭 Tenho 25 anos, sou técnico em Desenvolvimento de Sistemas pelo IFSC. Ao longo de minha formação trabalhei com diferentes tecnologias, entre elas:
+<ul>
+  <li> Linguagens: 
+    <ul>
+      <li> Java (JavaFX e Swing) </li>
+      <li> JavaScript </li>
+      <li> Python (Pandas, JupiterNotebook) </li>
+      <li> PHP </li>
+    </ul> 
+  </li>
+  <li> Frameworks e outras tecnologias: 
+    <ul>
+      <li> SpringBoot </li>
+      <li> Hibernate </li>
+      <li> JasperSoft </li>
+      <li> Json Server </li>
+      <li> Streamlit </li>
+    </ul>
+  </li>
+</ul>
 
 - 🔭 Atualmente utilizo as linguagens: **Java, JavaScript, Python e PHP**
 
