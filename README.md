@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ribeiroif&label=Profile%20views&color=0e75b6&style=flat" alt="ribeiroif" /> </p>
 
 - Tenho 25 anos, sou técnico em Desenvolvimento de Sistemas pelo IFSC. Entrei no curso em março de 2025 como uma possibilidade de explorar uma nova área de trabalho. <br>
-- Atualmente tenho experiência técnica com desenvolvimento e correção de softwares entre os mais variados âmbitos, porém com um interesse maior em adentrar o setor de CyberSegurança <br>
-Ao longo de minha formação trabalhei com diferentes tecnologias, entre elas:
+- Atualmente tenho experiência técnica com desenvolvimento e correção de softwares entre os mais variados âmbitos, porém com um interesse maior em adentrar o setor de CyberSegurança <br> <br>
+- Ao longo de minha formação trabalhei com diferentes tecnologias, entre elas:
 <ul>
   <li> Linguagens: 
     <ul>
